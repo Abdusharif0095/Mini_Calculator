@@ -8,4 +8,4 @@ This my first mini-project in Python🎉
     ```
     pip install kivy
     ```
-    You can see my calculator here
+* You can see my calculator here
