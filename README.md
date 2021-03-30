@@ -8,6 +8,10 @@ This my first mini-project in Python🎉
     ```
     pip install kivy
     ```
+ - Clone this ![git-repository](https://github.com/Abdusharif0095/Mini_Calculator) with command below:
+   ```
+   git clone https://github.com/Abdusharif0095/Mini_Calculator
+   ```
  
 ## You can see my calculator here <br>
 ![Image](view.jpg)
