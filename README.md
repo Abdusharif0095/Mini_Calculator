@@ -16,8 +16,7 @@ This my first mini-project in Python🎉
   ```
   python calc.py
   ```
- - 
-Now you can use this calculator 
+ - Now you can use this calculator 
  
 ## You can see my calculator here <br>
 ![Image](view.jpg)
