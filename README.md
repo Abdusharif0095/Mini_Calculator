@@ -12,6 +12,15 @@ This my first mini-project in Python🎉
    ```
    git clone https://github.com/Abdusharif0095/Mini_Calculator
    ```
+- Run the calc.py with command below:
+  ```
+  python calc.py
+  ```
+ - 
+Now you can use this calculator 
  
 ## You can see my calculator here <br>
 ![Image](view.jpg)
+
+# Thank you for your attention to my project!!!
+# Good Luck!!!
