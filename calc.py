@@ -3,7 +3,7 @@ from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.textinput import TextInput
 
-class mainApp (App):
+class CalculatorApp (App):
     def build(self):
         main_layout = BoxLayout(orientation="vertical", padding=10, spacing=10)
         self.solution = TextInput(multiline=False, font_size=55, halign="right", readonly=False)
@@ -51,4 +51,4 @@ class mainApp (App):
 
 
 if __name__ == "__main__":
-    mainApp().run()
+    CalculatorApp().run()
