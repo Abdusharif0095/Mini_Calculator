@@ -1,3 +1,6 @@
 # Mini_Calculator 🧮
 This my first mini-project in Python🎉
-# Kivy librery
+# In order to use my calculator you must:
+<ul>
+  <li> Install python </li>
+ </ul>
