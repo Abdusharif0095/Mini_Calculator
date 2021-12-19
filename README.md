@@ -1,10 +1,7 @@
 # Mini_Calculator 🧮
 This my first mini-project in Python🎉
 ## In order to use my calculator you must:
-- Download and install calculator.apk
- ```
-  python calc.py
-  ```
+ - Download and install calculator.apk
  - Now you can use this calculator 
  
 ## You can see my calculator here <br>
